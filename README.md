@@ -1,4 +1,4 @@
-# Quality-and-Maintenance
+# Quality Control
 
 The main purpose of this mobile application is to meet the needs of companies in the companies in the quality control operation. 
 By automating the quality control at reception, we will both eliminate the possible errors in manual picking, reduce costs and optimise the process.
